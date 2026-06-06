@@ -1,0 +1,6 @@
+{
+  "name": "Smart Chicken Monitoring System",
+  "description": "ระบบติดตามและวิเคราะห์พฤติกรรมไก่อัจฉริยะ อ้างอิงจากกล้องภายในฟาร์มแบบเรียลไทม์ พร้อมเตือนและรายงาน",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
